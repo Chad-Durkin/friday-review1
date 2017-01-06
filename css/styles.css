@@ -140,6 +140,15 @@ ul.skills {
   float: right;
 }
 
+#closing {
+  font-size: 40px;
+  text-align: center;
+  border: 5px solid green;
+  background-color: #0e0e3f;
+  padding: 10px;
+  margin-top: 700px;
+}
+
 @media screen and (max-width: 700px) {
 
 .container {
