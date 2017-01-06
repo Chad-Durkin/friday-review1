@@ -23,7 +23,6 @@ body {
 }
 
 p.topheader {
-  /*color: gold;*/
   font-size: 50px;
   font-variant: small-caps;
 }
@@ -52,7 +51,6 @@ p.intro {
 
 h1.projects {
   text-align: center;
-  /*color: gold;*/
   font-variant: small-caps;
   font-size: 40px;
   border: 5px solid green;
@@ -73,13 +71,11 @@ ol.projects {
 }
 
 li {
-  /*color: gold;*/
   font-size: 20px;
   padding: 4px;
 }
 
 h1.about-me {
-  /*color: gold;*/
   border: 5px solid green;
   background-color: #0e0e3f;
   font-variant: small-caps;
@@ -88,11 +84,9 @@ h1.about-me {
   padding: 10px;
   margin-top: 200px;
   margin-bottom: 30px;
-
 }
 
 .the-about-me {
-  /*color: gold;*/
   font-size: 20px;
   border: 5px solid green;
   background-color: #0e0e3f;
@@ -116,7 +110,6 @@ br.indent {
 }
 
 h2.interests {
-  /*color: gold;*/
   border: 5px solid green;
   background-color: #0e0e3f;
   font-variant: small-caps;
@@ -128,10 +121,8 @@ h2.interests {
 }
 
 ul.interests {
-  /*color: gold;*/
   font-size: 20px;
   width: 45%;
-  color: gold;
   border: 5px solid green;
   background-color: #0e0e3f;
   padding-top: 10px;
@@ -140,13 +131,23 @@ ul.interests {
 }
 
 ul.skills {
-  /*color: gold;*/
   font-size: 20px;
   width: 45%;
-  color: gold;
   border: 5px solid green;
   background-color: #0e0e3f;
   padding-top: 10px;
   padding-bottom: 10px;
   float: right;
+}
+
+@media screen and (max-width: 700px) {
+
+.container {
+  color: white;
+  background-color: gold;
+}
+
+ul.contactinfo {
+  float: none;
+}
 }
