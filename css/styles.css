@@ -1,5 +1,6 @@
 .jumbotron {
   background-color: #0e0e3f;
+  border: 3px solid green;
 }
 
 p.topheader {
@@ -17,6 +18,30 @@ p.intro {
   color: Green;
   font-size: 60px;
   font-variant: small-caps;
+}
+
+h1.projects {
+  text-align: center;
+  color: green;
+  border: 3px solid green;
+  background-color: #0e0e3f;
+  margin: 100px;
+  margin-bottom: 30px;
+
+
+}
+
+ul.projects {
+  border: 3px solid green;
+  background-color: #0e0e3f;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+li {
+  color: Green;
+  padding: 4px;
 }
 
 body {
