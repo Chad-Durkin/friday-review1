@@ -29,6 +29,11 @@ ul.contactinfo {
   margin-right: 250px;
 }
 
+.dropdown {
+  float: right;
+  margin-right: 400px;
+}
+
 p.intro {
   color: gold;
   font-size: 50px;
