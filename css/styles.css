@@ -100,8 +100,23 @@ h2.interests {
 ul.interests {
   color: gold;
   font-size: 20px;
+  width: 45%;
+  color: gold;
   border: 5px solid green;
   background-color: #0e0e3f;
   padding-top: 10px;
   padding-bottom: 10px;
+  float: left;
+}
+
+ul.skills {
+  color: gold;
+  font-size: 20px;
+  width: 45%;
+  color: gold;
+  border: 5px solid green;
+  background-color: #0e0e3f;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  float: right;
 }
