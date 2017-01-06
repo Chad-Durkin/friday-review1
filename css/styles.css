@@ -1,10 +1,14 @@
+body {
+  background-image: url(http://img1.liveinternet.ru/images/attach/c/3/76/61/76061697_33.jpg);
+}
+
 .jumbotron {
   background-color: #0e0e3f;
-  border: 3px solid green;
+  border: 10px solid green;
 }
 
 p.topheader {
-  color: Green;
+  color: gold;
   font-size: 30px;
   font-variant: small-caps;
 }
@@ -15,24 +19,23 @@ p.topheader {
 }
 
 p.intro {
-  color: Green;
+  color: gold;
   font-size: 60px;
   font-variant: small-caps;
 }
 
 h1.projects {
   text-align: center;
-  color: green;
-  border: 3px solid green;
+  color: gold;
+  font-variant: small-caps;
+  border: 5px solid green;
   background-color: #0e0e3f;
   margin: 100px;
   margin-bottom: 30px;
-
-
 }
 
 ul.projects {
-  border: 3px solid green;
+  border: 5px solid green;
   background-color: #0e0e3f;
   padding-top: 10px;
   padding-right: 10px;
@@ -40,10 +43,22 @@ ul.projects {
 }
 
 li {
-  color: Green;
+  color: gold;
   padding: 4px;
 }
 
-body {
-  background-image: url(http://img1.liveinternet.ru/images/attach/c/3/76/61/76061697_33.jpg);
+h1.about-me {
+
+}
+
+p.about-me {
+  color: gold;
+  border: 5px solid green;
+  background-color: #0e0e3f;
+  padding: 10px
+
+
+}
+.csu-color {
+  color: crimson;
 }
