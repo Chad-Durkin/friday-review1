@@ -5,6 +5,7 @@ body {
 .jumbotron {
   background-color: #0e0e3f;
   border: 10px solid green;
+  margin-top: 45px;
 }
 
 p.topheader {
@@ -28,10 +29,14 @@ h1.projects {
   text-align: center;
   color: gold;
   font-variant: small-caps;
+  font-size: 40px;
   border: 5px solid green;
   background-color: #0e0e3f;
-  margin: 100px;
   margin-bottom: 30px;
+  margin-top: 150px;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: 10px;
 }
 
 ul.projects {
@@ -48,16 +53,23 @@ li {
 }
 
 h1.about-me {
+  color: gold;
+  border: 5px solid green;
+  background-color: #0e0e3f;
+  font-variant: small-caps;
+  font-size: 40px;
+  text-align: center;
+  padding: 10px;
+  margin-top: 200px;
 
 }
 
 p.about-me {
   color: gold;
+  font-size: 20px;
   border: 5px solid green;
   background-color: #0e0e3f;
-  padding: 10px
-
-
+  padding: 10px;
 }
 .csu-color {
   color: crimson;
