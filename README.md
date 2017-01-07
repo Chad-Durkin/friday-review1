@@ -10,7 +10,7 @@ _A website introducing myself, the website contains a list of all my projects th
 
 ## Setup/Installation Requirements
 
-* _Clone this repository_
+* _Clone this repository or Copy and paste this link https://rafeekey.github.io/friday-review1/_
 * _Open up in web browser_
 
 ## Known Bugs
